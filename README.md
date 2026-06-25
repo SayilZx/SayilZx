@@ -1,4 +1,4 @@
-# Hey, I'm Sayilnen 👋
+# Hey, I'm Sayilnen 
 
 Cybersecurity graduate from FUT Minna. I build tools at the intersection of AI and security — things that actually work, not just look good in a demo.
 
@@ -53,6 +53,6 @@ Tools          Git · GitHub · VS Code · Postman · Linux CLI
 
 ## Reach me
 
-📧 sayilnengerlong@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/sayilnen-gerlonga9b73a126)  
+sayilnengerlong@gmail.com  
+[LinkedIn](https://linkedin.com/in/sayilnen-gerlonga9b73a126)  
 🌍 Abuja, Nigeria
