@@ -1,8 +1,8 @@
 # Hey, I'm Sayilnen 
 
-Cybersecurity graduate from FUT Minna. I build tools at the intersection of AI and security — things that actually work, not just look good in a demo.
+Cybersecurity graduate from FUT Minna. I build tools at the intersection of AI and security, things that actually work, not just look good in a demo.
 
-My final year project is PhishGuard Pro: three ML models running in parallel (XGBoost + fine-tuned DistilBERT + Sentence Transformers), a REST API companies can plug into their infrastructure, and a DistilBERT engine that hit 100% accuracy on phishing detection — beating the published research I was replicating.
+My final year project is PhishGuard Pro: three ML models running in parallel (XGBoost + fine tuned DistilBERT + Sentence Transformers), a REST API companies can plug into their infrastructure, and a DistilBERT engine that hit 100% accuracy on phishing detection, beating the published research I was replicating.
 
 ---
 
